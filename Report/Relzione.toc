@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Image Data Set}{3}{section.1}
+\contentsline {section}{\numberline {2}The Project}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Feature Extraction}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Feature Reduction}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Visualization of high-dimensional data in a low-dimensional space}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}T-distributed Stochastic Neighbor Embedding (t-SNE)}{7}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Principal component analysis (PCA)}{9}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}PCA and t-SNE}{10}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Extract features from an arbitrary intermediate layer}{12}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}75\% of the net}{14}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}50\% of the net}{15}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}25\% of the net}{16}{subsubsection.2.4.3}
+\contentsline {subsection}{\numberline {2.5}Supervised Classifier}{19}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}k-NN}{19}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}SVM}{21}{subsubsection.2.5.2}
+\contentsline {subsection}{\numberline {2.6}Results}{22}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}k-NN}{22}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.2}SVM}{27}{subsubsection.2.6.2}
+\contentsline {section}{\numberline {3}Visual Categorization with Bags of Keypoints }{35}{section.3}
+\contentsline {section}{\numberline {4}Conclusion}{36}{section.4}

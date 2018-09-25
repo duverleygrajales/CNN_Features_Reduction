@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Image Data Set}{}% 1
+\BOOKMARK [1][-]{section.2}{The Project}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Feature Extraction}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Feature Reduction}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Visualization of high-dimensional data in a low-dimensional space}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{T-distributed Stochastic Neighbor Embedding \(t-SNE\)}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Principal component analysis \(PCA\)}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.3}{PCA and t-SNE}{subsection.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Extract features from an arbitrary intermediate layer}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.4.1}{75\045 of the net}{subsection.2.4}% 10
+\BOOKMARK [3][-]{subsubsection.2.4.2}{50\045 of the net}{subsection.2.4}% 11
+\BOOKMARK [3][-]{subsubsection.2.4.3}{25\045 of the net}{subsection.2.4}% 12
+\BOOKMARK [2][-]{subsection.2.5}{Supervised Classifier}{section.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.5.1}{k-NN}{subsection.2.5}% 14
+\BOOKMARK [3][-]{subsubsection.2.5.2}{SVM}{subsection.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.6}{Results}{section.2}% 16
+\BOOKMARK [3][-]{subsubsection.2.6.1}{k-NN}{subsection.2.6}% 17
+\BOOKMARK [3][-]{subsubsection.2.6.2}{SVM}{subsection.2.6}% 18
+\BOOKMARK [1][-]{section.3}{Visual Categorization with Bags of Keypoints }{}% 19
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 20
