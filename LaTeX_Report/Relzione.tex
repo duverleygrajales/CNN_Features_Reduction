@@ -90,18 +90,18 @@ Gabriele \textsc{Chiriatti}\\
 %	INTRODUCTION
 %----------------------------------------------------------------------------------------
 \begin{abstract}
-We present a method to classify images with a Pre-trained Model, that are not trained for that images.
-So we extract features from Pre-trained Model of Keras and after a fetures reduction, a supervised algorithm is used to classify the images. 
+The purpose of this project essentially is develop transfer learning program(s) to reduction and extraction of features, through convolutional neural networks (CNNs) trained on a large dataset like ImageNet (not specialized in histological samples). The program(s) take advantage using the outputs of existing pre-trained models from Keras with which supervised learning algorithms will be trained based in a Python machine learning library like scikits.learn.
+
 \end{abstract}
 \newpage
 %----------------------------------------------------------------------------------------
 \section{Image Data Set}
-The images represents histological samples of subjects looking for lung lesions. These problems can be benign or malignant.
+The images represents histological samples of subjects looking for lung lesions. These problems can be represented by benign or malignant tumors.
 In particular represent:
 \begin{itemize}
-\item Epithelioid Mesothelioma (ME)  malignant tumor.
-\item Sarcomatoid Mesothelioma (MS)  malignant tumor.
-\item Benign Fibrosis (F).
+\item Epithelioid Mesothelioma (ME)  [Malignant Tumor].
+\item Sarcomatoid Mesothelioma (MS)  [Malignant Tumor].
+\item Fibrosis (F) [Benign Tumor].
 \end{itemize}
 
 \begin{figure}[H] % Example image
