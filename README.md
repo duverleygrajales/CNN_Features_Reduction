@@ -88,7 +88,7 @@ The requirements are the following:
 
 >*output:* 
 >-   Display in a terminal screen the Confusion Matrix for the supervised learning algorithm K-NN.
->-   Display in a terminal screen the Average Accuracy for the supervised learning algorithm SVM.
+>-   Display in a terminal screen the Average Accuracy for the supervised learning algorithm K-NN.
 
 #### _SVM.py_
 
