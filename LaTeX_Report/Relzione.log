@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.19)  26 SEP 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.19)  26 SEP 2018 18:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -723,6 +723,10 @@ File: Pictures/Xception_PCA.png Graphic file (type png)
 Package pdftex.def Info: Pictures/Xception_PCA.png used on input line 248.
 (pdftex.def)             Requested size: 209.12683pt x 156.84808pt.
 
+Overfull \hbox (60.51187pt too wide) in paragraph at lines 248--249
+ []\OT1/cmr/m/n/12 scikits.learn 
+ []
+
 <Pictures/ResNet50_PCA.png, id=196, 481.8pt x 361.35pt>
 File: Pictures/ResNet50_PCA.png Graphic file (type png)
 
@@ -1318,16 +1322,16 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 1737--1769
  []
 
 [35]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1774.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1781.
  [36]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1774.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1781.
  (./Relzione.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1774.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1774.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1781.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1781.
 
 Package rerunfilecheck Info: File `Relzione.out' has not changed.
 (rerunfilecheck)             Checksum: 8320C16A49E5C1D7350692FA18E3C0AF;1463.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1774.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1781.
  ) 
 Here is how much of TeX's memory you used:
  10736 strings out of 493029
@@ -1346,7 +1350,7 @@ st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmtt12.pfb>
-Output written on Relzione.pdf (37 pages, 4479702 bytes).
+Output written on Relzione.pdf (37 pages, 4480127 bytes).
 PDF statistics:
  495 PDF objects out of 1000 (max. 8388607)
  335 compressed objects within 4 object streams
