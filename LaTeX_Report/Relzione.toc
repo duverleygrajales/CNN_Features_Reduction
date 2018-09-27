@@ -17,4 +17,4 @@
 \contentsline {subsubsection}{\numberline {2.6.1}k-NN}{22}{subsubsection.2.6.1}
 \contentsline {subsubsection}{\numberline {2.6.2}SVM}{27}{subsubsection.2.6.2}
 \contentsline {section}{\numberline {3}Visual Categorization with Bags of Keypoints }{35}{section.3}
-\contentsline {section}{\numberline {4}Conclusion}{36}{section.4}
+\contentsline {section}{\numberline {4}Conclusions}{36}{section.4}

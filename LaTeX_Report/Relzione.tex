@@ -1769,12 +1769,19 @@ Is now possible to compare our result with the result of MatLab tool.
 
 \newpage
 
-\section {Conclusion}
+\section {Conclusions}
 
 \begin{itemize}
-\item In the Transfer Learning Field there are many applications in need of models that can be take feautures from the existing ones and adapt it to new domains, in order to accomplish this we have developed programs for testing the pre-trained models present actually in Keras, thus being able to include or discard it inside of histological areas, based on the results obtained measuring the average accuracy.
 
-\item It is also important to emphasize that having intermediate layer results can actually improve the accuracy of the system. An example can be the VGG16 which achieves the maximum accuracy to 75% of the network length. Or still the Xception that reaches its maximum at 25%.
+\item In the Transfer Learning Field there are many applications in need of models that can be take features from the existing ones and adapt it to new domains, in order to accomplish this we have developed programs for testing the pre-trained models present actually in Keras, thus being able to include or discard it inside of histological areas, based on the results obtained measuring the average accuracy.
+
+\item Taking into account the aforementioned the develop program is also concentrated on tests for intermediate layers, based on the idea we do not know exactly how the pre-trained models will behave in new environments, so we tend to think that an intermediate layer could improve the accuracy of the supervised learning algorithm model.  And we were not wrong, for example the VGG16 which achieves the maximum accuracy to 75\% or still the Xception that reaches its maximum at 25\%, both in the KNN as the SVM.
+
+\item One of the project's objectives and point of comparison was to achieve an average accuracy better than the Bag of Features approach for image category classification developed in Matlab. In fact, most results gave a higher average accuracy regarding the approach given in Matlab as we can see in the tables previously shown.
+
+\item All the procedures followed have always been in order to have a program that was as flexible as possible and with a reduced computational cost. Focusing on the process of PCA decomposition mainly, for this reason we chose only to the optimal number of PCA characteristics maintaining a high level of average accuracy.
+
+\item Due to computational costs, is complex to test all possible combinations to get the best average accuracy. In this context, we have profited of the Google Cloud Platform (suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products), it has been quite useful.
 
 \end{itemize}
 
