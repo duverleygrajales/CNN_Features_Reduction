@@ -1,6 +1,8 @@
 # CNN_Features_Extractor
 >   Bioinformatics Project Polito
 
+>   [Slides](https://docs.google.com/presentation/d/1hM0NyDrpANUZUk5uyVBj3lJBddzBML43z2B8_Yj1Uzo/edit#slide=id.g4217f91955_0_25)
+
 ## Getting Started
 
 ### Directory Structure of the Repository
